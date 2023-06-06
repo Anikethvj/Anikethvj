@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Aniketh V Jambha</h1>
-<h3 align="center">A passionate Full Stack developer with expertise in Cloud Computing and a keen interest in Machine Learning and Artificial Intelligence, combining your skills to create innovative and scalable solutions</h3>
+<h3 align="center">A passionate Full Stack developer with expertise in Cloud Computing and a keen interest in Machine Learning and Artificial Intelligence, combining my skills to create innovative and scalable solutions</h3>
 <img align="right" alt="coding" width="400" src = "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikethvj&label=Profile%20views&color=0e75b6&style=flat" alt="anikethvj" /> </p>
